@@ -12,10 +12,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
 
-##
+## Codeforces
 
-<div align="center">
-</div>
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ngjiaxian735&theme=rose_pine&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ngjiaxian735)
 
 ###
 
