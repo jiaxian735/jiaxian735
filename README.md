@@ -4,6 +4,24 @@
   <img src="https://count.getloli.com/@jiaxian735?theme=booru-lewd" alt="jiaxian745" />
 </div>
 
+# Languages 
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jiaxian735&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 ###
 
 <picture>
