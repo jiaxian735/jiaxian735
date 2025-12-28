@@ -1,6 +1,6 @@
 # Welcome to My Github!
 <div align="center">
-  <img src="https://count.getloli.com/@jiaxian735？theme=booru-lewd" alt="jiaxian745" />
+  <img src="https://count.getloli.com/@jiaxian735?theme=booru-lewd" alt="jiaxian745" />
 </div>
 <!--
 **jiaxian735/jiaxian735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
