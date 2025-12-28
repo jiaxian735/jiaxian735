@@ -4,7 +4,7 @@
   <img src="https://count.getloli.com/@jiaxian735?theme=booru-lewd" alt="jiaxian745" />
 </div>
 
-# Languages 
+## Languages 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
