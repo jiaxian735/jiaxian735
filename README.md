@@ -18,6 +18,12 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ngjiaxian735&theme=rose_pine&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces stats"  />
 </div>
 
+## Leetcode
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/jiaxian735?theme=catppuccinMocha&font=Pattaya" alt="Leetcode stats" />
+</div>
+
 ##
 
 <picture>
