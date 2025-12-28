@@ -14,9 +14,11 @@
 
 ## Codeforces
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ngjiaxian735&theme=rose_pine&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ngjiaxian735)
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ngjiaxian735&theme=rose_pine&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces stats"  />
+</div>
 
-###
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiaxian735/jiaxian735/output/pacman-contribution-graph-dark.svg">
